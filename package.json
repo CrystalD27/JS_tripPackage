@@ -1,0 +1,22 @@
+{
+  "name": "js_trippackage",
+  "version": "1.0.0",
+  "description": "JS practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrystalD27/JS_tripPackage.git"
+  },
+  "author": "Crystal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CrystalD27/JS_tripPackage/issues"
+  },
+  "homepage": "https://github.com/CrystalD27/JS_tripPackage#readme",
+  "devDependencies": {
+    "webpack": "^5.75.0"
+  }
+}
